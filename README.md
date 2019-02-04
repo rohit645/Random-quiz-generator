@@ -7,5 +7,5 @@ Requirments        : python 3.0
 
 Modules/ libraries : os, random, shelves, pprint
 
-Note : You will need to change the location where you want to create the files
+Note : You will need to change the location where you want to create the files.
 
